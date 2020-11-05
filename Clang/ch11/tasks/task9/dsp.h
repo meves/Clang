@@ -1,0 +1,1 @@
+char * deleteSpaces(char * s);

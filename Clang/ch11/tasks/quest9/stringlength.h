@@ -1,0 +1,1 @@
+int stringlength(const char * str);

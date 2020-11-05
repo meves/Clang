@@ -1,0 +1,1 @@
+char * getnchars(char * buf, int n);

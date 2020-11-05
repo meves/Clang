@@ -1,0 +1,1 @@
+const char * space(const char * string);
