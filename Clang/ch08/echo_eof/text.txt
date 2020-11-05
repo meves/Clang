@@ -1,4 +1,0 @@
-First string
-
-The programm is over!
-String
